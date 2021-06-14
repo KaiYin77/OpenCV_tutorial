@@ -16,5 +16,8 @@ git push -u origin main
 ```
 pip install opencv-contrib-python
 ```
+```
+pip install caer
+```
 ## TODO:
 - [ ] start the first python code
