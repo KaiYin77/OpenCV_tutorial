@@ -3,21 +3,21 @@
 ## Useful command
 ### git command:
 ```
-git add [file]
+$ git add [file]
 ```
 ```
-git commit -m "something"
+$ git commit -m "something"
 ```
 ```
-git push -u origin main
+$ git push -u origin main
 ```
 
 ### Installation
 ```
-pip install opencv-contrib-python
+$ pip install opencv-contrib-python
 ```
 ```
-pip install caer
+$ pip install caer
 ```
 ## TODO:
 - [ ] start the first python code
