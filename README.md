@@ -20,4 +20,7 @@ $ pip install opencv-contrib-python
 $ pip install caer
 ```
 ## TODO:
-- [ ] start the first python code
+- [x] start the first python code
+
+## Doing:
+- [] Now learning read file and any other manipulation
