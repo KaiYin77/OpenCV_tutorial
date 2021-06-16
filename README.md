@@ -23,4 +23,4 @@ $ pip install caer
 - [x] start the first python code
 
 ## Doing:
-- [] Now learning read file and any other manipulation
+- [ ] Now learning read file and any other manipulation
